@@ -33,9 +33,13 @@
   <br>- 🔭 I’m working as Backend Developer @Kanastra
   <br>- ☁️ Also, I have a Google Cloud Professional Certificate.
   <br>- ⚡ In my free time I always learning something new
-  <br>- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelbittar/)
-
 </p>
+
+### 
+  <h3 align="left">:mailbox: Contact</h3>
+  <p align="left">
+  <a href="https://www.linkedin.com/in/marcelbittar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></p>
 
 ###
 
