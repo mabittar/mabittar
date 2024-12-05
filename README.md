@@ -37,10 +37,17 @@
 
 ### 
   <h3 align="left">:mailbox: Contact</h3>
+  <br>
   <p align="left">
   <a href="https://www.linkedin.com/in/marcelbittar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></p>
-
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </p>
+    
+  <p align="left">
+  <a href="https://mabittar.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Blog&logo=microdotblog&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Blog logo"  />
+  </p>
+    
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
