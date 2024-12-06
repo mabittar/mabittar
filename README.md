@@ -29,11 +29,13 @@
 
 ###
 
-<p align="left">I'm Marcel Bittar from Brazli<br>
-  <br>- 🔭 I’m working as Backend Developer @Kanastra
-  <br>- ☁️ Also, I have a Google Cloud Professional Certificate.
+<p align="left">I'm Marcel Bittar from Rio de Janeiro<br>
+  <br>- 🔭 I’m working as Backend Developer [@Kanastra](https://kanastra.com.br/)
+  <br>- ☁️ Also, I'm a Google Cloud Professional Developer and Assossiate Cloud Engineer Certificated
   <br>- ⚡ In my free time I always learning something new
 </p>
+
+<p align="left>Proficient in several frameworks for building robust back-end components, ensuring scalability and high availability. Skilled in Docker, Shell automations, Kubernetes orchestration and Linux, enhancing deployment efficiency and security. Strong Project and Change Management expertise following PMI best practices and Agile Methodologies, ensuring project success. Proven track record in crafting reusable, testable, and efficient code to meet project needs.  </p>
 
 ### 
   <h3 align="left">:mailbox: Contact</h3>
