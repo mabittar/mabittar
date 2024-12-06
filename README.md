@@ -38,17 +38,17 @@
 <p align="left>Proficient in several frameworks for building robust back-end components, ensuring scalability and high availability. Skilled in Docker, Shell automations, Kubernetes orchestration and Linux, enhancing deployment efficiency and security. Strong Project and Change Management expertise following PMI best practices and Agile Methodologies, ensuring project success. Proven track record in crafting reusable, testable, and efficient code to meet project needs.  </p>
 
 ### 
-  <h3 align="left">:mailbox: Contact</h3>
-  <br>
-  <p align="left">
-  <a href="https://www.linkedin.com/in/marcelbittar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </p>
-    
-  <p align="left">
-  <a href="https://mabittar.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Blog&logo=microdotblog&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Blog logo"  />
-  </p>
+<h3 align="left">:mailbox:  Contacts</h3>
+<br>
+<p align="left">
+<a href="https://www.linkedin.com/in/marcelbittar/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</p>
+  
+<p align="left">
+<a href="https://mabittar.github.io/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Blog&logo=microdotblog&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Blog logo"  />
+</p>
     
 ###
 
